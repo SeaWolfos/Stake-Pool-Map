@@ -1,0 +1,100 @@
+Mar 14 05:55:09.993 INFO disconnecting client, node_id: 9bf29a37be3c1ffd8ffd0de173357514c9ad020202000000, peer_addr: 51.89.42.199:3302, task: network
+Mar 14 05:55:09.994 INFO disconnecting client, node_id: f89b8b04e82fbfdcb5baa67231b25ac10d05a81b1b1a58ae, peer_addr: 35.156.53.22:3000, task: network
+Mar 14 05:55:10.094 INFO failed to connect to peer, reason: Connection refused (os error 111), node_id: d2a7144b01eab7d7b5ff8de3bf14eb347e1c87e6aba60b35, peer_addr: 185.161.193.91:3201, task: network
+Mar 14 05:55:10.227 INFO failed to connect to peer, reason: Connection refused (os error 111), node_id: ff82ae1a3dd8f8f2020abcce82efc3e8c062b8bfeed82da9, peer_addr: 179.57.6.121:6536, task: network
+Mar 14 05:55:10.348 INFO failed to connect to peer, reason: Connection refused (os error 111), node_id: 62d2f32413c450f6b9553298c9103b7207a57fe744bddbb1, peer_addr: 88.99.83.86:4102, task: network
+Mar 14 05:55:10.515 INFO peer node ID differs from the expected 91eb748223def9af3a4c443f6dcbb68b12c6b1a4a5277eab, node_id: ac467353e650d8f981d7112be48cb028ed2e00ab86c17d2c, peer_addr: 108.44.44.149:3001, task: network
+Mar 14 05:55:10.644 INFO peer node ID differs from the expected 2d12c8761d6101190d3ea59f243aadc76bc5c878c02bbe83, node_id: 4a3298561464a0692970e9aa9d253e36c255f36ad9f222d5, peer_addr: 137.117.149.53:3000, task: network
+Mar 14 05:55:10.708 INFO peer node ID differs from the expected 7e8876964524fba26d1b48e2a30f35c5b0bbb3fbfc97ce28, node_id: c1d68af4f367e8e1020b4323c495c9c3b291f32839542bfd, peer_addr: 207.180.253.140:3000, task: network
+Mar 14 05:55:11.345 INFO accepted connection, peer_addr: 79.143.188.85:45930, local_addr: 64.225.39.74:3000, task: network
+Mar 14 05:55:11.668 INFO connection closed, peer_addr: 79.143.188.85:45930, local_addr: 64.225.39.74:3000, task: network
+Mar 14 05:55:11.808 INFO accepted connection, peer_addr: 178.157.82.189:14006, local_addr: 64.225.39.74:3000, task: network
+Mar 14 05:55:12.079 INFO connecting to peer, node_id: a5e95736aeab49be9c5b43ebee6115e94c6d67522db4b41d, peer_addr: 3.215.52.18:3000, task: network
+Mar 14 05:55:12.123 INFO connecting to peer, node_id: 3d4a34436ce2a6e6fe9579c29963673ffabb2b012cf14ea3, peer_addr: 3.24.141.20:3000, task: network
+Mar 14 05:55:12.153 INFO connecting to peer, node_id: 8b07b8f1227c6e879ca9d667364de36e870ad11111000017, peer_addr: 116.203.251.21:3301, task: network
+Mar 14 05:55:12.294 INFO connecting to peer, node_id: c797e2419915fef4df7114fc4ec4c09d5ea741f96fe291cb, peer_addr: 52.214.209.130:3000, task: network
+Mar 14 05:55:12.339 INFO connecting to peer, node_id: 3ddf0c16dcd44bf54b1f463e1b9d8dd9684080d59cfd1011, peer_addr: 172.105.86.201:8888, task: network
+Mar 14 05:55:12.449 INFO connecting to peer, node_id: 54bbddd5397923ee6989786c81585f56ae39d1b7bb34daad, peer_addr: 45.153.187.198:3001, task: network
+Mar 14 05:55:12.496 INFO connecting to peer, node_id: 106b54ff6a74b79d8654d81c559f993d4260d04731668e13, peer_addr: 83.51.174.166:8765, task: network
+Mar 14 05:55:12.520 INFO connecting to peer, node_id: 000000000000000000000000000000000000000000000019, peer_addr: 83.85.188.13:3000, task: network
+Mar 14 05:55:12.573 INFO connecting to peer, node_id: 331337121552cb04e4d5a5a9b4b4c818823c3c49216705be, peer_addr: 82.209.54.76:3000, task: network
+Mar 14 05:55:12.588 INFO connecting to peer, node_id: fbda10951e571c79580ff00974c58d4e359b698389d95800, peer_addr: 185.177.59.209:3100, task: network
+Mar 14 05:55:12.596 INFO connecting to peer, node_id: feff75f3e1d70fc079af311d70156070ca3f5e9c736a29c6, peer_addr: 185.177.59.209:3100, task: network
+Mar 14 05:55:12.614 INFO connecting to peer, node_id: 000000000000000000000000000000000000000000047407, peer_addr: 94.16.122.78:3000, task: network
+Mar 14 05:55:12.628 INFO connecting to peer, node_id: 85e514f9fe0a8256f56ce081904b0563e55ba932bf02a01a, peer_addr: 88.99.83.86:4102, task: network
+Mar 14 05:55:12.661 INFO connecting to peer, node_id: 9fa40db9096640265c041e09aff1aa3bca26fc062dfa008f, peer_addr: 67.184.136.170:3000, task: network
+Mar 14 05:55:12.679 INFO connecting to peer, node_id: 0000000000000000e25b68aa0901980394bc4d6b90000006, peer_addr: 140.82.8.143:3302, task: network
+Mar 14 05:55:12.738 INFO connecting to peer, node_id: 4657d8018b03b3d659dcc22428971a101359d776c285a937, peer_addr: 178.164.199.60:8299, task: network
+Mar 14 05:55:12.758 INFO connecting to peer, node_id: efbd5f7049b0668f83e50e32db000c599fb3557d4bfda13c, peer_addr: 15.222.163.122:3000, task: network
+Mar 14 05:55:12.869 INFO connecting to peer, node_id: 00000000000000000000000000000000000000000001ada1, peer_addr: 83.85.188.13:3001, task: network
+Mar 14 05:55:12.952 INFO connecting to peer, node_id: 75a84b308757207d64537e7305490b065bfb824cad8cd77c, peer_addr: 18.139.40.249:3000, task: network
+Mar 14 05:55:13.007 INFO connecting to peer, node_id: 539622dd6f0a9ae6a3af5f06127cdc72401500df775a22ee, peer_addr: 185.177.59.209:3100, task: network
+Mar 14 05:55:13.060 INFO connecting to peer, node_id: d61d1938101354e3099ed2646005c0a3d06c64fd8432186b, peer_addr: 13.56.224.222:3000, task: network
+Mar 14 05:55:13.256 INFO connecting to peer, node_id: 1d3cf63ab59b4db4047c1a650ce4ea8cacc84391eb373389, peer_addr: 3.16.38.132:9000, task: network
+Mar 14 05:55:13.435 INFO connecting to peer, node_id: 2f111f65db77212cc5681806ce0e503d3a9aa98f73eb02c8, peer_addr: 137.117.149.53:3000, task: network
+Mar 14 05:55:13.596 INFO connecting to peer, node_id: ac570c027c0d932dde893534c9283e9fd9225763213fae0b, peer_addr: 185.177.59.209:3100, task: network
+Mar 14 05:55:13.803 INFO connecting to peer, node_id: 7fc03db81b42ca21d15900f6507c76e5cdc2a2222200008a, peer_addr: 116.203.251.21:3302, task: network
+Mar 14 05:55:13.888 INFO connecting to peer, node_id: a76aaa7378f76b7054986b72a5bd33019c6fd8d6ef4ed78d, peer_addr: 3.16.206.86:9000, task: network
+Mar 14 05:55:14.044 INFO accepted connection, peer_addr: 18.176.194.154:38410, local_addr: 64.225.39.74:3000, task: network
+Mar 14 05:55:14.044 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: e868d0cbbbbaee08e7659cfb4889bfe0bd288d648ebf2ae9, peer_addr: 139.99.222.97:3100, task: network
+Mar 14 05:55:14.045 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: 170725fa92f0dbdb7275dd7e44b3506ccf6094b1c2efed05, peer_addr: 18.191.113.187:9000, task: network
+Mar 14 05:55:14.045 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: 9975d52dea57ba8b1f3e40194580488a5f172ad228f5f4b1, peer_addr: 89.162.89.137:9003, task: network
+Mar 14 05:55:14.045 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: bc5b5e2379c653d58645ca73440aaac1c092dd5e309b1e02, peer_addr: 94.41.84.85:4100, task: network
+Mar 14 05:55:14.051 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: 5e8879e3e2df5aa77b57f1024ab8f51f7f4fe79b78950236, peer_addr: 89.162.89.137:9001, task: network
+Mar 14 05:55:14.052 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: ccb1c1775547dd1567d1f08f01805aab0f8137ee19ba515d, peer_addr: 80.210.74.134:3002, task: network
+Mar 14 05:55:14.053 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: e31de3b3c9c31ae04e4928e4204b2d4286990ef63c7ff9e3, peer_addr: 208.113.200.150:3000, task: network
+Mar 14 05:55:14.053 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: 27244e0ef122924b1dd50c2feae12273aedfa32a693e4ab3, peer_addr: 86.90.6.114:3888, task: network
+Mar 14 05:55:14.055 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: b63a6a55983c23b3daec947789ea70d15d3b5c92455fb07b, peer_addr: 91.167.243.137:3000, task: network
+Mar 14 05:55:14.061 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: 000000000000000000000000000000000000000000000006, peer_addr: 73.168.185.55:3000, task: network
+Mar 14 05:55:14.297 INFO peer node ID differs from the expected d61d1938101354e3099ed2646005c0a3d06c64fd8432186b, node_id: 4eaac39546ae45af3da476da92226539885d8a162c4c3744, peer_addr: 13.56.224.222:3000, task: network
+Mar 14 05:55:14.391 INFO failed to connect to peer, reason: Connection refused (os error 111), node_id: 85e514f9fe0a8256f56ce081904b0563e55ba932bf02a01a, peer_addr: 88.99.83.86:4102, task: network
+Mar 14 05:55:14.418 INFO peer node ID differs from the expected 9fa40db9096640265c041e09aff1aa3bca26fc062dfa008f, node_id: a760f2842997f6b1b6d58ce5a5200fd9346d49bd38b5dff7, peer_addr: 67.184.136.170:3000, task: network
+Mar 14 05:55:14.498 INFO peer node ID differs from the expected a76aaa7378f76b7054986b72a5bd33019c6fd8d6ef4ed78d, node_id: fa63c5831780efe8550e3d74671f0092df6ef75e74556135, peer_addr: 3.16.206.86:9000, task: network
+Mar 14 05:55:14.700 INFO peer node ID differs from the expected 8b07b8f1227c6e879ca9d667364de36e870ad11111000017, node_id: 7fc03db81b42ca21d15900f6507c76e5cdc2a111110001b9, peer_addr: 116.203.251.21:3301, task: network
+Mar 14 05:55:14.713 INFO peer node ID differs from the expected 2f111f65db77212cc5681806ce0e503d3a9aa98f73eb02c8, node_id: 4a3298561464a0692970e9aa9d253e36c255f36ad9f222d5, peer_addr: 137.117.149.53:3000, task: network
+Mar 14 05:55:14.746 INFO peer node ID differs from the expected 7fc03db81b42ca21d15900f6507c76e5cdc2a2222200008a, node_id: 7fc03db81b42ca21d15900f6507c76e5cdc2a22222000188, peer_addr: 116.203.251.21:3302, task: network
+Mar 14 05:55:14.987 INFO accepted connection, peer_addr: 75.63.29.87:41990, local_addr: 64.225.39.74:3000, task: network
+Mar 14 05:55:15.042 INFO connection closed, peer_addr: 134.209.202.95:39482, local_addr: 64.225.39.74:3000, task: network
+Mar 14 05:55:15.086 INFO connection closed, peer_addr: 75.63.29.87:41990, local_addr: 64.225.39.74:3000, task: network
+Mar 14 05:55:17.116 INFO connecting to peer, node_id: 6324ce0d42cc5c31577a9f27d327cfc61f13597dd21221d6, peer_addr: 61.69.254.98:3100, task: network
+Mar 14 05:55:17.191 INFO connecting to peer, node_id: c506f95dbd36f5c71b28eb5ed98df31d3b57bb6d2091e9c5, peer_addr: 47.144.213.192:3000, task: network
+Mar 14 05:55:17.429 INFO connecting to peer, node_id: ffb9c1231f03cb2c58afee6dacf4892264f1a23d4c5c31ed, peer_addr: 51.15.116.252:3000, task: network
+Mar 14 05:55:17.502 INFO connecting to peer, node_id: 9ef8875853633aeff9f06ebfabd7cd41e3b2a0189e20da79, peer_addr: 91.158.25.32:3000, task: network
+Mar 14 05:55:17.518 INFO connecting to peer, node_id: 0f0eb7930add90a2dadf0d7a5fb8f538ae397c7f25eb1002, peer_addr: 91.158.25.32:3000, task: network
+Mar 14 05:55:17.571 INFO connecting to peer, node_id: c4f8d46fb79b1a372d78b14c51a64482a65d93c66920dad9, peer_addr: 173.212.246.91:3002, task: network
+Mar 14 05:55:17.585 INFO connecting to peer, node_id: f9ecda9f70c1e1ec7c55d40f635956d2570549801a8bd509, peer_addr: 185.177.59.209:3100, task: network
+Mar 14 05:55:17.607 INFO connecting to peer, node_id: 600fedfb21fa574993b0eb6bc51702392d2ebe976755359f, peer_addr: 185.177.59.209:3100, task: network
+Mar 14 05:55:17.699 INFO connecting to peer, node_id: 366a08a2e9c9b26a0ab2a8f46b9c9165971665619514088f, peer_addr: 212.8.248.160:3400, task: network
+Mar 14 05:55:17.718 INFO connecting to peer, node_id: 5c7d0dfd00bd89acbc9e8537f9fa8959d4f440c2d5000077, peer_addr: 91.153.127.44:3405, task: network
+Mar 14 05:55:17.733 INFO connecting to peer, node_id: aaaf0896847fd93ff178df7ae622a765437b08a13f99b138, peer_addr: 69.164.201.77:3000, task: network
+Mar 14 05:55:17.867 INFO connecting to peer, node_id: 1fc60f0e601ca8dc12245335231aac6a8056373a9581e1d6, peer_addr: 93.190.141.157:3002, task: network
+Mar 14 05:55:17.923 INFO connecting to peer, node_id: f677b4914177f8e87f4527c2840958788f596a8473fda671, peer_addr: 209.250.239.195:8650, task: network
+Mar 14 05:55:17.976 INFO connecting to peer, node_id: 755ff4c0393e01bc01dc00411159db1ac2f0e1158c405395, peer_addr: 44.232.75.18:3000, task: network
+Mar 14 05:55:18.063 INFO connecting to peer, node_id: a5713802adb9ea971f71a5dace5d57806da5357a09cee597, peer_addr: 71.120.136.46:5100, task: network
+Mar 14 05:55:18.096 INFO connecting to peer, node_id: cb990cd5add52d694d5833f28473c607619144d6a3dcae39, peer_addr: 52.206.250.1:3000, task: network
+Mar 14 05:55:18.113 INFO connecting to peer, node_id: 1c325a408d714839e54108cc28844c65a11ddc21497ab894, peer_addr: 51.83.74.134:3000, task: network
+Mar 14 05:55:18.227 INFO connecting to peer, node_id: 0865dab19a93c96586ec3571ca0bf2aa948c7ffdd4394c6e, peer_addr: 54.191.31.225:3000, task: network
+Mar 14 05:55:18.299 INFO connecting to peer, node_id: fefcdbbd865d6e06bb2bfd2069974df674bdfdafd53adce5, peer_addr: 116.240.126.98:3201, task: network
+Mar 14 05:55:18.319 INFO connecting to peer, node_id: 4b63b66212b88fa2cccd764c5c84690ee17d4c408b323e95, peer_addr: 91.178.130.16:3000, task: network
+Mar 14 05:55:18.367 INFO connecting to peer, node_id: 1c6a9c5859363e43bcc96e3e92f76fc8d66b6b66cb000009, peer_addr: 188.210.210.234:3005, task: network
+Mar 14 05:55:18.390 INFO connecting to peer, node_id: aaab85fdc2afd11c05ad0c4dff4950d7e3f3e811f04395d6, peer_addr: 185.177.59.209:3100, task: network
+Mar 14 05:55:18.405 INFO connecting to peer, node_id: 2b865f925d40ccc1358130199aa7a66520ddea6c344ea464, peer_addr: 91.184.220.227:3100, task: network
+Mar 14 05:55:18.423 INFO accepted connection, peer_addr: 167.86.72.30:48482, local_addr: 64.225.39.74:3000, task: network
+Mar 14 05:55:18.522 INFO peer node ID differs from the expected c506f95dbd36f5c71b28eb5ed98df31d3b57bb6d2091e9c5, node_id: 000000000000000000000000000000000000000000ddba11, peer_addr: 47.144.213.192:3000, task: network
+Mar 14 05:55:18.772 INFO connection to peer failed, reason: protocol handshake failed: unknown error (grpc-status: Unknown, grpc-message: "connection error: broken pipe"), node_id: 366a08a2e9c9b26a0ab2a8f46b9c9165971665619514088f, peer_addr: 212.8.248.160:3400, task: network
+Mar 14 05:55:18.773 INFO connection to peer failed, reason: protocol handshake failed: unknown error (grpc-status: Unknown, grpc-message: "connection error: broken pipe"), node_id: 1c325a408d714839e54108cc28844c65a11ddc21497ab894, peer_addr: 51.83.74.134:3000, task: network
+Mar 14 05:55:18.781 INFO connection to peer failed, reason: protocol handshake failed: unknown error (grpc-status: Unknown, grpc-message: "connection error: broken pipe"), node_id: 1fc60f0e601ca8dc12245335231aac6a8056373a9581e1d6, peer_addr: 93.190.141.157:3002, task: network
+Mar 14 05:55:18.916 INFO peer node ID differs from the expected 1c6a9c5859363e43bcc96e3e92f76fc8d66b6b66cb000009, node_id: 1c6a9c5859363e43bcc96e3e92f76fc8d66b6b66cb00000b, peer_addr: 188.210.210.234:3005, task: network
+Mar 14 05:55:18.923 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: 1a1199c0291208ff0c4c9b35176d6df2052c5f6be71a512e, peer_addr: 5.189.162.14:8001, task: network
+Mar 14 05:55:18.924 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: dd5419f0a3c005cbf899255a32d13adef75bb074f327ae3b, peer_addr: 45.63.42.211:3000, task: network
+Mar 14 05:55:18.925 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: dc73a294e7e700c897de5660d6bacb39617b6041c8cf3a14, peer_addr: 18.224.171.160:9000, task: network
+Mar 14 05:55:18.926 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: 464b41bb75895d64749494c7c3bd9defea975546339f1ede, peer_addr: 35.173.249.192:3000, task: network
+Mar 14 05:55:18.926 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: 98929549871e8de2dac92f23d8e33bb83191b39a7a399ae0, peer_addr: 34.89.205.216:3300, task: network
+Mar 14 05:55:18.927 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: 68d7d4fe7889ca5229b7e19512a10b44cdabe82b72d80b8f, peer_addr: 96.249.237.205:7100, task: network
+Mar 14 05:55:18.927 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: 132ee9557bedeb7b387fd6494147da8e7fa52fec67fc994f, peer_addr: 91.184.220.227:3100, task: network
+Mar 14 05:55:18.927 INFO failed to connect to peer, reason: Connection timed out (os error 110), node_id: e715aebbb7a24df37598421bd573069d6dc42112dacecb9b, peer_addr: 209.195.106.120:3100, task: network
+Mar 14 05:55:18.978 INFO peer node ID differs from the expected c4f8d46fb79b1a372d78b14c51a64482a65d93c66920dad9, node_id: 47b6a754fd4db662a31b035b735b9a5ba145e0c843056d46, peer_addr: 173.212.246.91:3002, task: network
+Mar 14 05:55:19.013 INFO peer node ID differs from the expected 0f0eb7930add90a2dadf0d7a5fb8f538ae397c7f25eb1002, node_id: 34caa89ae98bb77578a0b43d395c7453be4799c235b54703, peer_addr: 91.158.25.32:3000, task: network
+Mar 14 05:55:19.014 INFO peer node ID differs from the expected 9ef8875853633aeff9f06ebfabd7cd41e3b2a0189e20da79, node_id: 34caa89ae98bb77578a0b43d395c7453be4799c235b54703, peer_addr: 91.158.25.32:3000, task: network
+Mar 14 05:55:19.294 INFO received block announcement from network, from_node_id: 000000000000011111caddd2517506c451ddb808a0cec999, date: 91.19251, parent: e053270c1845d0f933c142e0b038779936fa899a9bf202b6a5e00ab39310f5de, hash: cf2827a28f21809315ebed67c93c2b488613720f02fcea72333295c8354f150b, task: block
+Mar 14 05:55:19.451 INFO receiving header stream from network, task: block
