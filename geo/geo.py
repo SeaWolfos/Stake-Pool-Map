@@ -14,6 +14,9 @@ pprint(response)
 # next steps: 
 # 1. feed in many IP addresses 
 # 2. suck lat/long from json response
+    # see latlong.py
+
+
 # 3. make new json with IP, node_id, lat, long
 # 4. remove duplicate IPs, node_ids
 # note: multiple IP addresses allowed per node? better include an add date in the json
