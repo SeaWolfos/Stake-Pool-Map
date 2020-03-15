@@ -2,6 +2,7 @@
 
 from ipdata import ipdata
 from pprint import pprint
+import json
 
 f = open('/home/cam/projects/project_secrets/geo.key', 'r')
 #print(f) # debugging#don't print API keys
@@ -15,10 +16,12 @@ with open('/home/cam/projects/Stake-Pool-Map/getIP/iplog.txt') as g:
         ip = g.readline().strip()
         print('ip: ', ip)
         response = ipdata.lookup(ip) #ip address - this will be !manual later
+        jjj = json.dumps(response)
         pprint(response)
+        print(type(response))
         with open("geoResponse.txt", "a") as h:
-#            h.write('\n'.join(response))
-            pprint(response, stream = out)
+#            h.write('\n'.join(response)
+            h.write(jjj)
         cnt += 1
 
 #status: only runs one IP, doesn't print the correct data to the file
