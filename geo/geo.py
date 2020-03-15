@@ -8,8 +8,16 @@ f = open('/home/cam/projects/project_secrets/geo.key', 'r')
 apiKey = f.readline().strip() # strips away \n at EOL
 ipdata = ipdata.IPData(apiKey) # api key goes here
 #ipdata = ipdata.IPData('') #api key
-response = ipdata.lookup('173.212.246.91') #ip address - this will be !manual later
-pprint(response)
+with open('/home/cam/projects/Stake-Pool-Map/getIP/iplog.txt') as g:
+    ip = g.readline().strip()
+    print('ip: ', ip)
+    response = ipdata.lookup(ip) #ip address - this will be !manual later
+    pprint(response)
+    with open("geoResponse.txt", "a") as h:
+        h.write('\n'.join(response))
+
+
+#status: only runs one IP, doesn't print the correct data to the file
 
 # next steps: 
 # 1. feed in many IP addresses 
