@@ -9,13 +9,17 @@ apiKey = f.readline().strip() # strips away \n at EOL
 ipdata = ipdata.IPData(apiKey) # api key goes here
 #ipdata = ipdata.IPData('') #api key
 with open('/home/cam/projects/Stake-Pool-Map/getIP/iplog.txt') as g:
-    ip = g.readline().strip()
-    print('ip: ', ip)
-    response = ipdata.lookup(ip) #ip address - this will be !manual later
-    pprint(response)
-    with open("geoResponse.txt", "a") as h:
-        h.write('\n'.join(response))
+    cnt = 0
+    for line in g:
 
+        ip = g.readline().strip()
+        print('ip: ', ip)
+        response = ipdata.lookup(ip) #ip address - this will be !manual later
+        pprint(response)
+        with open("geoResponse.txt", "a") as h:
+#            h.write('\n'.join(response))
+            pprint(response, stream = out)
+        cnt += 1
 
 #status: only runs one IP, doesn't print the correct data to the file
 
